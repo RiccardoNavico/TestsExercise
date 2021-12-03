@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TestsExample</string>
+    <string name="hint_email_et">Enter your email here</string>
+    <string name="hint_password_et">Enter your password here</string>
+    <string name="text_button">CHECK</string>
+
+    <string name="pwd_requirement_success">Password valid</string>
+    <string name="pwd_requirement_too_short">Password too short</string>
+    <string name="pwd_requirement_not_enough_special_char">Password need to contains at least 3 special chars</string>
+    <string name="pwd_requirement_not_enough_upper_case_char">Password need to contains at least 3 upper case chars</string>
+    <string name="pwd_requirement_not_enough_numbers">Password need to contains at least 3 numbers</string>
+
+    <!--    TOO_SHORT, NOT_ENOUGH_SPECIAL_CHAR, NOT_ENOUGH_UPPER_CASE_CHAR, NOT_ENOUGH_NUMBERS-->
+
+</resources>
